@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://to-cean.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-03T12:40:52.543Z</updated>
+    <title>T-Ocean</title>
+    <updated>2020-04-03T12:50:26.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://to-cean.github.io"/>
     <link rel="self" href="https://to-cean.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://to-cean.github.io/images/avatar.png</logo>
     <icon>https://to-cean.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, T-Ocean</rights>
     <entry>
         <title type="html"><![CDATA[111]]></title>
         <id>https://to-cean.github.io/post/111/</id>
